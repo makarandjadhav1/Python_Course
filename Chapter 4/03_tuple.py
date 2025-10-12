@@ -1,0 +1,7 @@
+a = (1,45,323,46,"Mack","Code","System Shield")
+print(a)
+print(type(a))
+a.count(1)
+print("Count of Tuple",a)
+a.index(1)
+print("Index of Tuple",a)
